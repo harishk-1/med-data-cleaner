@@ -1,0 +1,7 @@
+Patient Name: John Doe
+DOB: 14/05/1992
+Email: john.doe@securemail.com
+Phone: +1-555-0199
+
+Chief Complaint: Patient presents with persistent cough and mild fever. 
+No known drug allergies. Recommended standard recovery rest.
